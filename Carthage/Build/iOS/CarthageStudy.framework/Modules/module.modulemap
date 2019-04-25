@@ -1,6 +1,0 @@
-framework module CarthageStudy {
-  umbrella header "CarthageStudy.h"
-
-  export *
-  module * { export * }
-}
